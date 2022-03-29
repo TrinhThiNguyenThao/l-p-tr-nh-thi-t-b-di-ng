@@ -1,0 +1,8 @@
+D:\ỨNG DỤNG WEB\TranThiDieuAi_OOP\Lap1\bin\Debug\Lap1.exe.config
+D:\ỨNG DỤNG WEB\TranThiDieuAi_OOP\Lap1\bin\Debug\Lap1.exe
+D:\ỨNG DỤNG WEB\TranThiDieuAi_OOP\Lap1\bin\Debug\Lap1.pdb
+D:\ỨNG DỤNG WEB\TranThiDieuAi_OOP\Lap1\obj\Debug\Lap1.csproj.AssemblyReference.cache
+D:\ỨNG DỤNG WEB\TranThiDieuAi_OOP\Lap1\obj\Debug\Lap1.csproj.SuggestedBindingRedirects.cache
+D:\ỨNG DỤNG WEB\TranThiDieuAi_OOP\Lap1\obj\Debug\Lap1.csproj.CoreCompileInputs.cache
+D:\ỨNG DỤNG WEB\TranThiDieuAi_OOP\Lap1\obj\Debug\Lap1.exe
+D:\ỨNG DỤNG WEB\TranThiDieuAi_OOP\Lap1\obj\Debug\Lap1.pdb
